@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2022-01-05 11:49:04 by Eclipse SUMO GUI Version 1.11.0
+-->
+
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="/home/dazhou/Desktop/artery/scenarios/artery/roadnet1.net.xml"/>
+        <route-files value="/home/dazhou/Desktop/artery/scenarios/artery/vehiclenew.rou.xml"/>
+    </input>
+<step-length value="0.1" />
+</configuration>
